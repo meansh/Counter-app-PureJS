@@ -1,0 +1,24 @@
+.btn {
+  color: #fff;
+  padding: 5px 25px;
+  margin: 10px;
+  font-size: 19px;
+  text-transform: uppercase;
+  width: 300px;
+  border-radius: 15px;
+  background-color: #ff00d4;
+  text-shadow: 15px;
+  display: inline;
+  margin-left: 800px;
+  margin-top: 30px;
+}
+
+.bg {
+  background-image: url(./image.jpg);
+}
+
+.heading {
+  text-align: center;
+  font-size: 50px;
+  color: #fff;
+}
